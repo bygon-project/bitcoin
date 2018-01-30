@@ -46,12 +46,12 @@
         <translation>Duke marr adresen</translation>
     </message>
     <message>
-        <source>These are your Bitcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Këto janë Bitcoin adresat e juaja për të dërguar pagesa. Gjithmon kontrolloni shumën dhe adresën pranuese para se të dërgoni monedha.</translation>
+        <source>These are your Bygon addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Këto janë Bygon adresat e juaja për të dërguar pagesa. Gjithmon kontrolloni shumën dhe adresën pranuese para se të dërgoni monedha.</translation>
     </message>
     <message>
-        <source>These are your Bitcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Këto janë Bitcoin adresat e juaja për të pranuar pagesa. Rekomandohet që gjithmon të përdorni një adresë të re për çdo transaksion.</translation>
+        <source>These are your Bygon addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Këto janë Bygon adresat e juaja për të pranuar pagesa. Rekomandohet që gjithmon të përdorni një adresë të re për çdo transaksion.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -214,8 +214,8 @@
         <translation>Ndrysho frazkalimin e përdorur per enkriptimin e portofolit</translation>
     </message>
     <message>
-        <source>Bitcoin</source>
-        <translation>Bitcoin</translation>
+        <source>Bygon</source>
+        <translation>Bygon</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -385,10 +385,6 @@
         <translation>Miresevini</translation>
     </message>
     <message>
-        <source>Bitcoin</source>
-        <translation>Bitcoin</translation>
-    </message>
-    <message>
         <source>Error</source>
         <translation>Problem</translation>
     </message>
@@ -412,10 +408,6 @@
     <message>
         <source>W&amp;allet</source>
         <translation>Portofol</translation>
-    </message>
-    <message>
-        <source>Error</source>
-        <translation>Problem</translation>
     </message>
     </context>
 <context>
@@ -441,11 +433,7 @@
         <source>%1 and %2</source>
         <translation>%1 dhe %2</translation>
     </message>
-    <message>
-        <source>unknown</source>
-        <translation>i/e panjohur</translation>
-    </message>
-</context>
+    </context>
 <context>
     <name>QObject::QObject</name>
     </context>
@@ -461,6 +449,10 @@
     <message>
         <source>&amp;Open</source>
         <translation>&amp;Hap</translation>
+    </message>
+    <message>
+        <source>&amp;Clear</source>
+        <translation>&amp;Pastro</translation>
     </message>
     <message>
         <source>never</source>
@@ -777,7 +769,7 @@
         <source>Send Coins</source>
         <translation>Dërgo Monedha</translation>
     </message>
-    </context>
+</context>
 <context>
     <name>WalletView</name>
     <message>
@@ -792,8 +784,8 @@
         <translation>Opsionet:</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
-        <translation>Berthama Bitcoin</translation>
+        <source>Bygon Core</source>
+        <translation>Berthama Bygon</translation>
     </message>
     <message>
         <source>Information</source>
