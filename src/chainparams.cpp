@@ -125,8 +125,7 @@ public:
 
         // Note that of those with the service bits flag, most only support a subset of possible options
         vSeeds.emplace_back("18.221.130.251", true);
-        vSeeds.emplace_back("dnsseed.thrasher.io", true);
-        vSeeds.emplace_back("dnsseed.koin-project.com", false);
+       
 
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1,10);
         base58Prefixes[SCRIPT_ADDRESS] = std::vector<unsigned char>(1,5);
